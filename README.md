@@ -6,7 +6,7 @@ The coding languages I know are...
 - R 
 - C++
 - Python
-- MySQL
+- SQL
 - Java
 
 Some of my former projects from graduate school include generating Shiny Applications for projects related to Immunology research, Statistical exploration of sleep and obesity in children in their early childhood. 
