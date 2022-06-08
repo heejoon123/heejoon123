@@ -1,5 +1,5 @@
 # __About Me...__
-👋 Hello, I’m Heejoon Ahn, and I am currently a Senior Clinical Data Analyst at Northwell Health. My main role within my team is to help analyze and explore data for N-of-1 research. 
+👋 Hello, I’m Heejoon Ahn, and I am currently a Data Scientist at Northwell Health. My main role within my team is to help analyze and explore data for N-of-1 research. 
 I have a **MS degree** in **Health Data Science**. I graduated my undergraduate institution (**BA**) with a major in **Computational Biology** and minor in **Chemistry**. 
 The coding languages I know are...
 
