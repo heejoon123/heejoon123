@@ -21,21 +21,27 @@ Data Scientist with 3+ years of experience. I have experience determining statis
   - [*A Series of Virtual Interventions for Chronic Lower Back Pain: A Feasibility Pilot Study for a Series of Personalized (N-of-1) Trials*](10.1162/99608f92.72cd8432)
   - [*Personalized Feedback for Personalized Trials: Construction of Summary Reports for Participants in a Series of Personalized Trials for Chronic Lower Back Pain*](10.1162/99608f92.d5b57784)
 
+<br>
+
 ## <img src="https://github.com/heejoon123/heejoon123/assets/19496164/3d4c5bc6-4677-4fc6-9f90-afbd73d63a15" width="30" height="30"/> Languages and Tools
 
-<a href="https://cran.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="angular" width="50" height="40"/> </a>
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="angular" width="35" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=cdYUlRaag9G9&format=png" alt="angular" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="angular" width="40" height="40"/> </a>
+  <a href="https://www.java.com/en/" target="_blank"> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/07/java_logo_freelogovectors.net_.png" alt="angular" width="50" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" alt="angular" width="60" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="angular" width="60" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="angular" width="35" height="40"/> </a>
+  <a href="https://www.python.org/psf-landing/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="angular" width="35" height="40"/> </a>
+  <a href="https://cran.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="angular" width="50" height="40"/> </a>
+  <a href="https://www.rstudio.com/products/shiny/" target="_blank"> <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/thumbs/shiny.png" alt="angular" width="35" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/index.html" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="angular" width="35" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="angular" width="35" height="40"/> </a>
+</p>
+<br>
 
-## Others
+## Certificates
 
-I have experience in generating Shiny Applications for various business purposes and research projects through R. I have done various regression model analyses with COVID-19 data, cancer research, and research using personalized devices like smartwatches. A lot of the work I do involves using R, Python, and SQL fluidly as needed/requested. I have also taken online certificate courses for Google Cloud Machine Learning Engineering, Machine Learning, and the IBM Data Science Professional Certificate, and more! 
-
-- 👀 **I’m interested in ...**
-  - Data Science Projects
-  - Machine Learning Projects
-- 🌱 **I’m currently learning / reviewing ...**
-  - Natural Language Processing
-  - Deep Learning and Neural Networks
-  - Regressional Modeling
-  - Social Network Analysis
-- 💞️ **I’m looking to collaborate on ...**
-  - Any machine learning/data science projects 
+- **IBM Data Science Certification:** February 2021 [certificate here](https://www.coursera.org/account/accomplishments/specialization/certificate/8Q5ER7EFRRUD)
+- **Machine Learning Certification:** November 2020 [certificate here](https://www.coursera.org/account/accomplishments/certificate/96AT9PFUXLL8)
