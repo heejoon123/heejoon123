@@ -40,6 +40,8 @@ Data Scientist with 3+ years of experience. I have experience determining statis
 </p>
 <br>
 
+* Java
+
 ## Certificates
 
 - **IBM Data Science Certification:** February 2021 [certificate here](https://www.coursera.org/account/accomplishments/specialization/certificate/8Q5ER7EFRRUD)
