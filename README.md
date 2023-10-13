@@ -29,7 +29,6 @@ Data Scientist with 3+ years of experience. I have experience determining statis
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="angular" width="35" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=2x&id=cdYUlRaag9G9&format=png" alt="angular" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/07/java_logo_freelogovectors.net_.png" alt="angular" width="50" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" alt="angular" width="60" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="angular" width="60" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="angular" width="35" height="40"/> </a>
