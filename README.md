@@ -17,9 +17,9 @@ Data Scientist with 3+ years of experience. I have experience determining statis
 
 
 - <img src="https://github.com/heejoon123/heejoon123/assets/19496164/5e0fa076-91f2-4b7f-ba44-caf788286747" width ="20" height="20"/> **Publications**:
-  - [*Randomized Phase II Trial of Endocrine Therapy With or Without Ribociclib After Progression on Cyclin-Dependent Kinase 4/6 Inhibition in Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer:MAINTAIN Trial*](10.1200/jco.22.02392)
-  - [*A Series of Virtual Interventions for Chronic Lower Back Pain: A Feasibility Pilot Study for a Series of Personalized (N-of-1) Trials*](10.1162/99608f92.72cd8432)
-  - [*Personalized Feedback for Personalized Trials: Construction of Summary Reports for Participants in a Series of Personalized Trials for Chronic Lower Back Pain*](10.1162/99608f92.d5b57784)
+  - [*Randomized Phase II Trial of Endocrine Therapy With or Without Ribociclib After Progression on Cyclin-Dependent Kinase 4/6 Inhibition in Hormone Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Metastatic Breast Cancer:MAINTAIN Trial*](https://ascopubs.org/doi/10.1200/JCO.22.02392)
+  - [*A Series of Virtual Interventions for Chronic Lower Back Pain: A Feasibility Pilot Study for a Series of Personalized (N-of-1) Trials*](https://hdsr.mitpress.mit.edu/pub/9c034nf7/release/1)
+  - [*Personalized Feedback for Personalized Trials: Construction of Summary Reports for Participants in a Series of Personalized Trials for Chronic Lower Back Pain*](https://hdsr.mitpress.mit.edu/pub/n3hbli1d/release/1)
 
 <br>
 
