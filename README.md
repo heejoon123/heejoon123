@@ -21,6 +21,7 @@ Data Scientist with 3+ years of experience. I have experience determining statis
   - [*A Series of Virtual Interventions for Chronic Lower Back Pain: A Feasibility Pilot Study for a Series of Personalized (N-of-1) Trials*](https://hdsr.mitpress.mit.edu/pub/9c034nf7/release/1)
   - [*Personalized Feedback for Personalized Trials: Construction of Summary Reports for Participants in a Series of Personalized Trials for Chronic Lower Back Pain*](https://hdsr.mitpress.mit.edu/pub/n3hbli1d/release/1)
   - [*A Series of Personalized Virtual Light Therapy Interventions for Fatigue: Feasibility Randomized Crossover Trial for N-of-1 Treatment*](https://formative.jmir.org/2023/1/e45510)
+  - [*Before and after COVID-19: Changes in symptoms and diagnoses in 13,033 adults*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286371)
 
 <br>
 
