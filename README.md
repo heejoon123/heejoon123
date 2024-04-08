@@ -49,3 +49,12 @@ Data Scientist with 3+ years of experience. I have experience determining statis
 - **Preparing for Google Cloud Certification: Machine Learning Engineer:** July 2022 [certificate here](https://coursera.org/share/efad4526f15c0754ab849d28faa3ff0f)
 - **IBM Data Science Certification:** February 2021 [certificate here](https://www.coursera.org/account/accomplishments/specialization/certificate/8Q5ER7EFRRUD)
 - **Machine Learning Certification:** November 2020 [certificate here](https://www.coursera.org/account/accomplishments/certificate/96AT9PFUXLL8)
+
+## Conferences
+- **Membership:**
+  - Grace Hopper Celebration
+  - ODSC
+- **Presented at:**
+  - SCT:
+    - *An R Markdown automation provided a critical step to help provide individualized feedback reports in a much faster and a more efficient manner* 
+
