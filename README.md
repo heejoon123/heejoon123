@@ -22,6 +22,7 @@ Data Scientist with 3+ years of experience. I have experience determining statis
   - [*Personalized Feedback for Personalized Trials: Construction of Summary Reports for Participants in a Series of Personalized Trials for Chronic Lower Back Pain*](https://hdsr.mitpress.mit.edu/pub/n3hbli1d/release/1)
   - [*A Series of Personalized Virtual Light Therapy Interventions for Fatigue: Feasibility Randomized Crossover Trial for N-of-1 Treatment*](https://formative.jmir.org/2023/1/e45510)
   - [*Before and after COVID-19: Changes in symptoms and diagnoses in 13,033 adults*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286371)
+  - [*Despite mandated primary series, health care personnel still hesitant about COVID-19 vaccine and immunizing children*](https://doi.org/10.1016/j.vaccine.2024.04.028)
 
 <br>
 
