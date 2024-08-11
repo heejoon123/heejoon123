@@ -32,6 +32,9 @@ I am currently a Data Scientist with 3+ years of experience. I have experience i
 - **Libraries:** Numpy, Pandas, Polars, scikit-learn, shiny, Keras, TensorFlow
 - **Other Tools:** PySpark
 
+## Educational Materials Published:
+- [**Introduction to Statistical Computing: R**](https://heejoon123.github.io/R_Course_Series_2023/)
+
 ## Certificates
 
 - **Preparing for Google Cloud Certification: Machine Learning Engineer** 
@@ -45,4 +48,3 @@ I am currently a Data Scientist with 3+ years of experience. I have experience i
 - **Presented at:**
   - SCT:
     - *An R Markdown automation provided a critical step to help provide individualized feedback reports in a much faster and a more efficient manner* 
-
