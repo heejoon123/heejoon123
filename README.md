@@ -20,6 +20,7 @@ I am currently a Data Scientist with 3+ years of experience. I have experience i
   - [*A Series of Personalized Virtual Light Therapy Interventions for Fatigue: Feasibility Randomized Crossover Trial for N-of-1 Treatment*](https://formative.jmir.org/2023/1/e45510)
   - [*Before and after COVID-19: Changes in symptoms and diagnoses in 13,033 adults*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286371)
   - [*Despite mandated primary series, health care personnel still hesitant about COVID-19 vaccine and immunizing children*](https://doi.org/10.1016/j.vaccine.2024.04.028)
+  - [*Photochemical generation of ketenes from phenanthrene-based cyclobutanones*](https://doi.org/10.1016/j.tet.2024.134344)
 
 <br>
 
