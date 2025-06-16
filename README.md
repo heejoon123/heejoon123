@@ -2,7 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heejoon-ahn/) [![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4938-4909)
 
-I am currently a Data Scientist with 4+ years of experience. I have experience in data analysis and reporting, data modelling, natural language processing and more. I have contributed in multiple manuscripts and presented at a conference as well. I am especially passionate about connecting with other Data Scientists to learn more about the various AI developments.
+I am currently working as a Senior Data Scientist with 4+ years of experience. I have experience in data analysis and reporting, data modelling, natural language processing and more. I have contributed in multiple manuscripts and presented at a conference as well. I am especially passionate about connecting with other Data Scientists to learn more about the various AI developments.
 
 - **Work Proficiences/Experiences:**
   - 🚀 Exploring smartwatch and other wearable device data on a personalized-level (N-of-1).
