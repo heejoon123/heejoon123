@@ -6,7 +6,7 @@ I am currently working as a Senior Data Scientist with 4+ years of experience. I
 
 - **Work Proficiences/Experiences:**
   - 🚀 Exploring smartwatch and other wearable device data on a personalized-level (N-of-1).
-  - <img src = "https://cdn-icons-png.flaticon.com/512/6509/6509613.png" width = "20" height = "20"/> Coding experience in Python, R *(libraries include numpy, pandas, polars, scikit-learn tidyverse, shiny, and more)*, SQL, with proficiencies in Java and C++. 
+  - <img src = "https://cdn-icons-png.flaticon.com/512/6509/6509613.png" width = "20" height = "20"/> Coding experience in Python, R, SQL to query data, perform data analysis and more. 
   - <img src="https://github.com/heejoon123/heejoon123/assets/19496164/1979b588-4124-4d39-a7b4-dde3df60a1c2" width="20" height="20"/> Statistical analysis, statistical modelling and machine learning.
   - <img src="https://github.com/heejoon123/heejoon123/assets/19496164/1979b588-4124-4d39-a7b4-dde3df60a1c2" width="20" height="20"/> Data visualization and communicating data insights.
   - <img src="https://github.com/heejoon123/heejoon123/assets/19496164/ef7b0935-110b-49ed-891a-c302d128ab9f" width="20" height="20"/> Generating business insights and tools through dashboard and web application creation.
