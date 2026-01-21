@@ -21,6 +21,8 @@ I am currently working as a Senior Data Scientist with 4+ years of experience. I
   - [*Before and after COVID-19: Changes in symptoms and diagnoses in 13,033 adults*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286371)
   - [*Despite mandated primary series, health care personnel still hesitant about COVID-19 vaccine and immunizing children*](https://doi.org/10.1016/j.vaccine.2024.04.028)
   - [*Photochemical generation of ketenes from phenanthrene-based cyclobutanones*](https://doi.org/10.1016/j.tet.2024.134344)
+  - [*A Series of Personalized Melatonin Supplement Interventions for Poor Sleep: Feasibility Randomized Crossover Trial for Personalized N-of-1 Treatment*](https://formative.jmir.org/2025/1/e58192)
+  - [*Randomized Personalized Trial for Stress Management Compared to Standard of Care*](https://www.mdpi.com/3666150)
 
 <br>
 
